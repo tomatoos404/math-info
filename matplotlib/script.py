@@ -50,3 +50,16 @@
 # figure 5
 
 
+# from pylab import *
+# xlim(0,51)
+# ylim(0,51)
+# x = []
+# y = []
+# pointplus = 10
+# for z in range(10,41):
+#     pointplus = pointplus + 1
+#     y.append(pointplus)
+#     x.append(z)
+# plot(x,y,'r*')
+# show()
+# figure 6
