@@ -63,3 +63,29 @@
 # plot(x,y,'r*')
 # show()
 # figure 6
+
+# from pylab import *
+# xlim(0,46)
+# ylim(0,26)
+# x = []
+# y = []
+# pointplus05 = 0
+# pointplus1 = 0
+# pointplus2 = 0
+# for j in range(1,21):
+#   pointplus05 = pointplus05 + 0.5
+#   y.append(pointplus05)
+#   x.append(j)
+# for j in range(1,21):
+#   if len(y) >= 20:  
+#      pointplus1 = pointplus1 + 1
+#      y.append(pointplus1)
+#      x.append(j)
+# for j in range(1,21):
+#   if len(y) >= 40:
+#     pointplus2 = pointplus2 + 2
+#     y.append(pointplus2)
+#     x.append(j)
+# plot(x,y,'r*')
+# show()
+# figure 7
