@@ -15,7 +15,7 @@
 #     x.append(i)
 # plot(x,y,'r*')
 # show()
-# figure 2
+# figure 3
 
 
 # from pylab import *
@@ -30,7 +30,7 @@
 #     x.append(z)
 # plot(x,y,'r*')
 # show()
-# figure 3
+# figure 4
 
 
 # from pylab import *
@@ -47,4 +47,6 @@
 #     x.append(z)
 # plot(x,y,'r*')
 # show()
-# figure 4
+# figure 5
+
+
