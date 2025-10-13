@@ -33,16 +33,18 @@
 # figure 3
 
 
-from pylab import *
-x = []
-y = []
-for z in range(5,16):
-    if len(x) == len(y):
-        for i in range(5,16):
-          y.append(5)
-          x.append(i)
-    y.append(3)
-    x.append(z)
-plot(x,y,'r*')
-show()
+# from pylab import *
+# xlim(0,21)
+# ylim(0,31)
+# x = []
+# y = []
+# for z in range(4,16):
+#     if len(x) == len(y):
+#         for i in range(4,16):
+#           y.append(z)
+#           x.append(i)
+#     y.append(3)
+#     x.append(z)
+# plot(x,y,'r*')
+# show()
 # figure 4
