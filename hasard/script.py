@@ -19,3 +19,11 @@
 #         result.append(randint(1, 6))
 # print(result)
 # print(len(result))
+
+# from random import *
+# result = []
+# for e in range(200):
+#     for i in range(2):
+#         result.append(randint(1, 8))
+# print(result)
+# print(len(result))
