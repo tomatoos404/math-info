@@ -5,9 +5,17 @@
 # print(list)
 # print(len(list))
 
-from random import *
-result = []
-for i in range(3):
-    result.append(randint(1, 6))
-print(result)
-print(sum(result))
+# from random import *
+# result = []
+# for i in range(3):
+#     result.append(randint(1, 6))
+# print(result)
+# print(sum(result))
+
+# from random import *
+# result = []
+# for e in range(50):
+#     for i in range(3):
+#         result.append(randint(1, 6))
+# print(result)
+# print(len(result))
